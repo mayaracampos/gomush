@@ -1,0 +1,16 @@
+PODS:
+  - JSONKit (1.5pre)
+  - Reachability (3.1.1)
+  - SAMGradientView (0.2.1)
+
+DEPENDENCIES:
+  - JSONKit (~> 1.4)
+  - Reachability (~> 3.0)
+  - SAMGradientView
+
+SPEC CHECKSUMS:
+  JSONKit: efef3bbd3372ff33f96b9c6f34cf4fe18e74ab69
+  Reachability: 8e9635e3cb4f98e7f825e51147f677ecc694d0e7
+  SAMGradientView: 37ef027b0da8b5fd85bfdfef49801b5262160998
+
+COCOAPODS: 0.33.1

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7408DE0D-AD93-4CF5-AB3A-91B967644FF9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>gomush</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B71EDEAE1F0C40400B06BD6B783E29E3FD486484</key>
+		<string>https://github.com/mayaracampos/gomush.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>gomush.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B71EDEAE1F0C40400B06BD6B783E29E3FD486484</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mayaracampos/gomush.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B71EDEAE1F0C40400B06BD6B783E29E3FD486484</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B71EDEAE1F0C40400B06BD6B783E29E3FD486484</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gomush</string>
+		</dict>
+	</array>
+</dict>
+</plist>
